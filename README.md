@@ -1,2 +1,2 @@
 # Planify-web
-It's is basically da Todo list app.. I created this using HTML , CSS and JavaScript 
+It's is basically a Todo list app.. I created this using HTML , CSS and JavaScript 
